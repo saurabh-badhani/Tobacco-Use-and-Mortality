@@ -61,28 +61,45 @@ This project analyzes five distinct datasets to provide a comprehensive picture 
    git clone https://github.com/saurabh-badhani/Tobacco_Mortality_Analysis.git
    cd Tobacco_Mortality_Analysis
 2.Place all datasets (smokers.csv, prescriptions.csv, etc.) in the root folder.
+
 3.Install required libraries:
+  
   pip install pandas numpy matplotlib seaborn
+
 4.Run the analysis script:
   python tobacco_mortality_analysis.py
+
 🛠️ Tools & Technologies Used
+
 i-Python (Pandas, NumPy)
 
 ii-Matplotlib & Seaborn (for plotting)
 
 iii-VS Code (for development)
+
 📁 Project Structure
+
 Tobacco_Mortality_Analysis/
 │
-├── tobacco_mortality_analysis.py     # Main Python script
+
+├── tobacco_mortality_analysis.py          # Main Python script
+
 ├── smokers.csv
+
 ├── prescriptions.csv
+
 ├── metrics.csv
+
 ├── fatalities.csv
+
 ├── admissions.csv
-└── README.md                         # You're here!
+
+└──README.md                         # You're here!
+
 📌 Author
+
 Saurabh Badhani
+
 GitHub: saurabh-badhani
 
 
